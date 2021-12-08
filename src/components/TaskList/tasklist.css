@@ -1,0 +1,15 @@
+.tasklist-container {
+  background-color: forestgreen;
+  padding: 2em;
+  margin: 2.5em;
+  height: 90%;
+  border-radius: 20px;
+}
+.tasklist-container h1 {
+  font-size: 45px;
+  text-align: center;
+  padding-bottom: 20px;
+  text-decoration: underline;
+
+
+}
