@@ -1,6 +1,6 @@
 
 const Video = (props) => {
-  const vid = props.task;
+  // const vid = props.task;
   // console.log(props.task);
   return (
     <div className="weather-card">

@@ -12,7 +12,7 @@ render() {
         <div id className="grid grid-cols-5 gap-4">
 
           <div className="col-span-1">
-            <img src='./images/My_Family_Garden_Logo.png' width="300" height="300"/>
+            <img src='./images/My_Family_Garden_Logo.png' alt="My_Family_Garden_Logo" width="300" height="300"/>
           </div>
 
           <div className="col-span-3">
@@ -27,7 +27,7 @@ render() {
         <div id className="header-container-2">
 
 
-            <img src='./images/My_Family_Garden_Logo.png' width="300" height="300"/>
+            <img src='./images/My_Family_Garden_Logo.png' alt="MFG My_Family_Garden_Logo" width="300" height="300"/>
 
 
 
@@ -35,7 +35,7 @@ render() {
 
           </div>
         </div>
-    
+
 
   )
 }
