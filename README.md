@@ -1,4 +1,4 @@
-#Daily Garden App
+# Daily Garden App
 
 ## General Information
 
