@@ -25,3 +25,13 @@
   border-radius: 20px;
   padding: 10px;
 }
+
+@media only screen and (max-width: 650px) {
+  .taskcard-container {
+    min-width: 300px;
+    height: 220px;
+  }
+  .taskcard-slide {
+    height: 180px;
+  }
+}

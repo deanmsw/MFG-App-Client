@@ -15,7 +15,8 @@ class TaskList extends Component {
     componentDidMount() {
 
       // Call the server to get task json data
-        axios('http://localhost:3000/tasks.json').then((response) => {
+        // axios('http://localhost:3000/tasks.json').then((response) => {
+        axios('https://mfg-server.herokuapp.com/tasks.json').then((response) => {
 
         // Sets the state for the task card
         const res = response.data;

@@ -34,7 +34,6 @@ componentDidMount() {
   });
 
  }
-//   // const API = '600bea502ab3482b9ad0c8d82c235885' // api key not working
 
 render() {
 
