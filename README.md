@@ -1,3 +1,5 @@
+#Daily Garden App
+
 ## General Information
 
 [View App Here](https://mfg-client.netlify.app/)
@@ -20,7 +22,7 @@ This app provides daily tasks for Gardeners and allotment owners, such as when t
 
   Backend was built using Ruby on Rails with PostgreSQL
 
-  [View Backend](https://mfg-server.herokuapp.com/)
+  [View Backend](https://mfg-server.herokuapp.com/tasks.json)
 
 ## Things to do next:
 
